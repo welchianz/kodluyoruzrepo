@@ -2,7 +2,7 @@
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Veri Bilimi Eğitiminde oluşturduğumuz bir repo. İçerisinde bir adet README dosyasıi bir adet de index.html barındırıyor.
 
-
+![][kodluyoruzrepo/repo.PNG]
 
 # Installation
 
