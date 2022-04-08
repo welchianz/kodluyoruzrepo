@@ -8,6 +8,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Veri Bilimi Eğitiminde oluşt
 
 Öncelikle projeyi clonelayın.(Buraya sizin reponuzdan aldığınız link gelecek)
 `
+
 git clone https://github.com/welchianz/kodluyoruzrepo.git
 `
 # Usage 
