@@ -7,10 +7,9 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Veri Bilimi Eğitiminde oluşt
 # Installation
 
 Öncelikle projeyi clonelayın.(Buraya sizin reponuzdan aldığınız link gelecek)
-`
-
+```
 git clone https://github.com/welchianz/kodluyoruzrepo.git
-`
+```
 # Usage 
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
