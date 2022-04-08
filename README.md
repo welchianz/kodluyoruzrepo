@@ -18,10 +18,8 @@ Linux için:
 
 ```
 
-
 cd kodluyoruzrepo 
 code .
-
 
 ```
 
